@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
-    <classAccesses>
-        <apexClass>Plc_WorkOrderInsertStagingC</apexClass>
-        <enabled>false</enabled>
-    </classAccesses>
     <custom>true</custom>
     <description>Profilo rinominato il 06/03/2019. Precedentemente era il profilo Operation Manager</description>
     <userLicense>Salesforce</userLicense>
